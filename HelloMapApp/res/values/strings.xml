@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">HelloMapApp</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_hello_map">HelloMapActivity</string>
+    <string name="gdg_devfest_2012">GDG DevFest Kathmandu</string>
+    <string name="jawlakhel_lalitpur_nepal">JawlaKhel, Lalitpur, Nepal</string>
+    <string name="view_map">View Map</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_hellomap">HellomapActivity</string>
+
+</resources>
